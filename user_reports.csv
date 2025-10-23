@@ -1,33 +1,18 @@
-username,image_name,disease,confidence
-Ram,Image1.jpg,Tomato_Late_blight,0.992057
-Ram,Image1.jpg,Tomato_Late_blight,0.9920570254325868
-Ram,image2.jpg,Tomato_Late_blight,0.7940074801445007
-Ram,image2.jpg,Tomato_Late_blight,0.7940074801445007
-Ram,image2.jpg,Tomato_Late_blight,0.7940074801445007
-Ram,image2.jpg,Tomato_Late_blight,0.7940074801445007
-Nikita,image2.jpg,Tomato_Late_blight,0.7940074801445007
-Nikita,image2.jpg,Tomato_Late_blight,0.7940074801445007
-Nikita,image2.jpg,Tomato_Late_blight,0.7940074801445007
-Nikita,Image1.jpg,Tomato_Late_blight,0.9920570254325868
-Nikita,Image1.jpg,Tomato_Late_blight,0.9920570254325868
-Nikita,Image1.jpg,Tomato_Late_blight,0.9920570254325868
-Nikita,Image1.jpg,Tomato_Late_blight,0.9920570254325868
-Krishna,image5.jpg,Tomato_Late_blight,0.8942635655403137
-Krishna,image5.jpg,Tomato_Late_blight,0.8942635655403137
-Krishna,image5.jpg,Tomato_Late_blight,0.8942635655403137
-Krishna,image5.jpg,Tomato_Late_blight,0.8942635655403137
-Nikita,image4.jpg,Tomato_Late_blight,0.8333801031112671
-Nikita,image4.jpg,Tomato_Late_blight,0.8333801031112671
-Nikita,image4.jpg,Tomato_Late_blight,0.8333801031112671
-Nikita,image4.jpg,Tomato_Late_blight,0.8333801031112671
-Nikita,image3.png,Tomato_Early_blight,0.8271589279174805
-Nikita,image3.png,Tomato_Early_blight,0.8271589279174805
-Raju,image3.png,Tomato_Early_blight,0.8271589279174805
-Raju,image3.png,Tomato_Early_blight,0.8271589279174805
-Raju,image3.png,Tomato_Early_blight,0.8271589279174805
-Raju,image3.png,Tomato_Early_blight,0.8271589279174805
-Vishnu,image5.jpg,Tomato_Late_blight,0.8942635655403137
-Vishnu,image5.jpg,Tomato_Late_blight,0.8942635655403137
-Vishnu,image5.jpg,Tomato_Late_blight,0.8942635655403137
-Vishnu,image5.jpg,Tomato_Late_blight,0.8942635655403137
-Vishnu,image5.jpg,Tomato_Late_blight,0.8942635655403137
+username,image_name,disease,confidence,timestamp,latitude,longitude
+Raju,image5.jpg,Tomato_Late_blight,0.8942635655403137,2025-10-23 19:54:41,29.9,
+Raju,image5.jpg,Tomato_Late_blight,0.8942635655403137,2025-10-23 19:55:18,29.9,
+Raju,image5.jpg,Tomato_Late_blight,0.8942635655403137,2025-10-23 19:55:33,29.9,
+Raju,image5.jpg,Tomato_Late_blight,0.8942635655403137,2025-10-23 19:55:40,29.9,
+Raju,image5.jpg,Tomato_Late_blight,0.8942635655403137,2025-10-23 19:56:03,29.9,
+Raju,image5.jpg,Tomato_Late_blight,0.8942635655403137,2025-10-23 19:56:11,29.9,
+Raju,image5.jpg,Tomato_Late_blight,0.8942635655403137,2025-10-23 19:56:55,29.9,
+Raman,image3.jpg,Tomato_Late_blight,0.5930976271629333,2025-10-23 20:10:36,29.9,
+Raman,image3.jpg,Tomato_Late_blight,0.5930976271629333,2025-10-23 20:10:58,29.9,
+Raman,image3.jpg,Tomato_Late_blight,0.5930976271629333,2025-10-23 20:11:12,29.9,
+Raman,image3.jpg,Tomato_Late_blight,0.5930976271629333,2025-10-23 20:11:24,29.9,
+Karan,image4.jpg,Tomato_Late_blight,0.8333801031112671,2025-10-23 23:52:57,12.2,
+Karan,image4.jpg,Tomato_Late_blight,0.8333801031112671,2025-10-23 23:53:16,12.2,
+Karan,image4.jpg,Tomato_Late_blight,0.8333801031112671,2025-10-24 00:00:09,12.2,
+Karan,image4.jpg,Tomato_Late_blight,0.8333801031112671,2025-10-24 00:00:28,12.2,
+Karan,image4.jpg,Tomato_Late_blight,0.8333801031112671,2025-10-24 00:00:46,12.2,
+Karan,image4.jpg,Tomato_Late_blight,0.8333801031112671,2025-10-24 00:00:55,12.2,
